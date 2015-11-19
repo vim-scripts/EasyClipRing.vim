@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5271
+
+EasyClipRing.vim v1.2.1
+Autocomplete style vim pop-up menu for your registers. See screenshot in the Usage section.
+
+This plugin requires vim-easyclip which requires vim-repeat
+
+See README.md on https://github.com/davidosomething/EasyClipRing.vim
